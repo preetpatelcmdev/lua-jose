@@ -1,12 +1,12 @@
 package = "jose"
 version = "0.1.0-1"
 source = {
-    url = "git://github.com/mah0x211/lua-jose.git",
+    url = "https://github.com/preetpatelcmdev/lua-jose.git",
     tag = "v0.1.0"
 }
 description = {
     summary = "JOSE(JSON Object Signing and Encryption) module",
-    homepage = "https://github.com/mah0x211/lua-jose", 
+    homepage = "https://github.com/preetpatelcmdev/lua-jose", 
     license = "MIT/X11",
     maintainer = "Masatoshi Teruya"
 }
